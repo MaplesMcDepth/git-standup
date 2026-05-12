@@ -1,5 +1,9 @@
 # git-standup
 
+![CI](https://github.com/MaplesMcDepth/git-standup/actions/workflows/ci.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
 What did you do yesterday? A simple git commit summary tool.
 
 ## Install
